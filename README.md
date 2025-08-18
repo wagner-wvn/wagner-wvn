@@ -3,5 +3,5 @@
 <div align="center">
 <h2> Skills 💻</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,next,tailwind,jquery,ts,php,mysql,html,css,sass,react,git)
+![My Skills](https://skillicons.dev/icons?i=js,next,jquery,ts,php,mysql,html,css,sass,react,git)
 </div>
