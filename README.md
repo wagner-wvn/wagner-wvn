@@ -34,15 +34,10 @@
 
 ---
 
-## 🌐 Contato
+## 📡 Contato
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/wagner-vitor-novais">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:wagnervitornovais@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/wagner-wvn">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/wagner-vitor-novais">💼 LinkedIn</a> •
+  <a href="https://github.com/wagner-wvn">🐙 GitHub</a>
 </div>
