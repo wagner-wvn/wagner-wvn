@@ -5,7 +5,7 @@
     <i>"Control is an illusion. But code... code is real."</i>  
   </p>
   <p>
-    Sou <b>Wagner Vitor</b>, desenvolvedor Full-Stack.  
+    Me chamo <b>Wagner</b>, sou desenvolvedor Full-Stack.
     Focado em construir soluções digitais práticas, seguras e eficientes.  
   </p>
 </div>
@@ -15,14 +15,15 @@
 ## ⚡ Stack
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,jquery,php,mysql,html,css,sass,git)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,jquery,php,mysql,html,css,sass,git)
 
 </div>
 
 ---
 
 ## 📂 Projetos em destaque
-- 🔗 [**Landing Page Caminho Urbano**](https://caminhourbano.com.br/) → Design minimalista, mobile-first, animação, clean code, robusto.
+- 🔗 [**Meu Portfólio**](https://caminhourbano.com.br/) → Design minimalista, mobile-first, animação, clean code, robusto.
+- 🔗 [**Neon Mangá**](neon-manga.vercel.app) → Plataforma de leitura de mangás online, integrada à API do MangaDex, com foco em performance e experiência fluida.
 - 🔗 [**Calculadora de Velas**](https://calculadoradevela.netlify.app/) → Aplicação feita para otimizar o processo de produção da loja **Ateliê Velas D’Odoyá**.  
 ---
 
@@ -37,7 +38,7 @@
 ## 📡 Contato
 
 <div align="center">
-  <a href="mailto:">✉️ Email</a> •
+  <a href="mailto:wagner.vn.dev@gmail.com">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/wagner-vitor-novais">💼 LinkedIn</a> •
   <a href="https://github.com/wagner-wvn">🐙 GitHub</a>
 </div>
